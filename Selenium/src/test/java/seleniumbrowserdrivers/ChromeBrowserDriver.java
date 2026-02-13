@@ -9,6 +9,9 @@ public class ChromeBrowserDriver {
 		ChromeDriver driver = new ChromeDriver();
 		driver.quit();
 
+		// driver = new EdgeDriver();
+		// EdgeDriver cannot be resolved to a type
+
 	}
 
 }
